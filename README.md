@@ -1,1 +1,1 @@
-Your go to repo for quick Python codes on the go.
+Your go to Repo for quick Python Codes on the go, for beginners. 
